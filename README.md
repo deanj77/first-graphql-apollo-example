@@ -11,8 +11,8 @@ to insatll all necessary packages and you can run it with command
 it run it on your local server now you can go to that url and click on query your server it redirect u to the area for tset it 
 now yoy should make below code to can connect and use your fake data
 
-`query GetAllUsers {
-  users {
+`query GetAllUsers {`
+ ` users {
     name 
     username
   }
